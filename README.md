@@ -3,5 +3,5 @@ An anime recommendation system that operates by providing it with a title and a 
 ![dendrogram_900](https://github.com/emircodes/AnimeRecs/assets/151061600/5e8427b3-af09-4350-8957-76d8e2e133bd)
 
 
-Version 1: (features: Synopsis)
-Version 2: (features: Synopsis and Genres)
++ Version 1: (features: Synopsis)
++ Version 2: (features: Synopsis and Genres)
