@@ -4,4 +4,4 @@ An anime recommendation system that operates by providing it with a title and a 
 
 <u> Features utilised for the K-Means Clustering Process </u>
 + Version 1: (features: Synopsis)
-+ Version 2: (features: Synopsis and Genres)
++ Version 2: (features: Synopsis and Genres) (Under Maintenance)
